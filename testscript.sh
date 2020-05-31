@@ -7,4 +7,5 @@ echo "$SUM"
 echo "just to check if githook is working"
 echo "hiiii"
 echo "hello"
+echo "hello2"
 
