@@ -5,5 +5,4 @@ echo $NUM2
 SUM=$(($NUM1+$NUM2))
 echo "$SUM"
 echo "This is to check webhook"
-echo "this is again to check"
 
